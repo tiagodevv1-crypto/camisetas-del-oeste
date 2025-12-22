@@ -15,10 +15,13 @@ header {
 
 #logo {
     display: block;
-    margin: 10px auto     !important;
+    margin: 10px auto !important;
 }
 
-#menu{
+#menu ul{
     list-style: none;
+}
+
+#menu a{
     text-decoration: none;
 }
