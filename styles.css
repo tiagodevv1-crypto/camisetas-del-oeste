@@ -1,13 +1,13 @@
 header {
     background-color: greenyellow;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana;
     padding: 10px; text-align: center;
 }
 
 #imagen-de-fondo{
 
     display: block;
-    margin:auto     !important;
+    margin:auto;
 }
 
 #logo {
