@@ -17,3 +17,8 @@ header {
     display: block;
     margin: 10px auto     !important;
 }
+
+#menu{
+    list-style: none;
+    text-decoration: none;
+}
