@@ -5,8 +5,9 @@ header {
 }
 
 #imagen-de-fondo{
-    text-align: center;
-    margin: 100px auto;
+
+    display: block;
+    margin: 10px auto;
     !important;
 }
 
