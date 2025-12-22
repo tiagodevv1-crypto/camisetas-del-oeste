@@ -4,7 +4,7 @@ header {
     padding: 10px; text-align: center;
 }
 
-img {
+#imagen-de-fondo{
     display: block;
     margin: 100px;
 }
