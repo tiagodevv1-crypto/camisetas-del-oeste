@@ -6,10 +6,10 @@ header {
 
 #imagen-de-fondo{
     text-align: center;
-    margin: 100px;
+    margin: 100px auto;
 }
 
 #logo {
     display: block;
-    margin: 10px;
+    margin: 10px auto;
 }
