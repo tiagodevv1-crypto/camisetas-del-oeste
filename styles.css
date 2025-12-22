@@ -7,12 +7,10 @@ header {
 #imagen-de-fondo{
 
     display: block;
-    margin: 10px auto;
-    !important;
+    margin: 10px auto     !important;
 }
 
 #logo {
     display: block;
-    margin: 10px auto;
-    !important;
+    margin: 10px auto     !important;
 }
