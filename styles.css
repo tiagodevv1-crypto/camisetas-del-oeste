@@ -4,9 +4,12 @@ header {
     padding: 10px; text-align: center;
 }
 
+#contenedor-img-fondo{
+    text-align: center;
+}
 #imagen-de-fondo{
 
-    display: block;
+    display: inline-block;
     margin:auto;
 }
 
