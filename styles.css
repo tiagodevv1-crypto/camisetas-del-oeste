@@ -5,6 +5,11 @@ header {
 }
 
 #imagen-de-fondo{
-    display: block;
+    text-align: center;
     margin: 100px;
+}
+
+#logo {
+    display: block;
+    margin: 10px;
 }
