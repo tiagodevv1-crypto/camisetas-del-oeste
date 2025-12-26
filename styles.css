@@ -1,15 +1,14 @@
-header {
-    font-family: "BBH Hegarty";
-    background-color: greenyellow;
-    padding: 10px; text-align: center;
-}
-
 .bbh-hegarty-regular {
   font-family: "BBH Hegarty", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
+header {
+    font-family: "BBH Hegarty";
+    background-color: greenyellow;
+    padding: 10px; text-align: center;
+}
 
 #contenedor-img-fondo{
     text-align: center;
