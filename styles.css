@@ -11,7 +11,7 @@ header {
 }
 
 #imagen-de-fondo { 
-    width: 100vw
+    width: 100vw;
     height: auto;
     display: block;
 }
