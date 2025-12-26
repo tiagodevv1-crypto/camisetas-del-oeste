@@ -12,9 +12,9 @@ header {
 }
 #imagen-de-fondo{
 
-    display: inline-block;
-    margin:auto;
-    margin:0vw;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 #logo {
