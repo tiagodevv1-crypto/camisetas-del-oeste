@@ -11,18 +11,26 @@ header {
 
     display: inline-block;
     margin:auto;
-    margin: 10px 100px ;
+    margin: 10px auto ;
 }
 
 #logo {
     display: block;
-    margin: 10px 100px ;
+    margin: 10px auto ;
 }
 
-#menu-elementos{
+#menu-botones{
     list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
 }
 
-#menu a{
+#menu-botones li{
+    display: inline-block;
+    margin: 0 15px;
+}
+
+#menu-botones a{
     text-decoration: none;
 }
