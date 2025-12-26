@@ -10,7 +10,7 @@ header {
     padding: 10px; text-align: center;
 }
 
-#imagen-de-fondo{
+#contenedor-imagen-de-fondo{
 
     background-size: cover;
     background-position: center;
