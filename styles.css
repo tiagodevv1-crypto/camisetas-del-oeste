@@ -11,14 +11,15 @@ header {
 
     display: inline-block;
     margin:auto;
+    margin: 10px 100px ;
 }
 
 #logo {
     display: block;
-    margin: 10px auto !important;
+    margin: 10px 100px ;
 }
 
-#menu ul{
+#menu-elementos{
     list-style: none;
 }
 
