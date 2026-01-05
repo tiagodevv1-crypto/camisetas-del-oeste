@@ -40,7 +40,8 @@ body{
 }
 
 .menu > ul{
-    display: flex;
+    display: inline-flex;
+    gap 20px;
 }
 
 #imagen-de-fondo { 
