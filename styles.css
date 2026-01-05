@@ -16,6 +16,8 @@ body{
 
 .headerdiv > div {
     display: flex;
+    width: 100%;
+    margin:auto;
     justify-content: center;
 }
 
@@ -29,8 +31,10 @@ body{
 }
 
 .menu{
+    display: flex;
+    flex-direction: row;
     justify-content: center;
-    
+
 }
 
 #imagen-de-fondo { 
