@@ -44,6 +44,9 @@ body{
     justify-content: center;
 }
 
+.menu>nav{
+    width: 100%;
+}
 #imagen-de-fondo { 
     width: 100vw;
     height: auto;
