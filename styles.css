@@ -29,7 +29,8 @@ body{
 }
 
 .formulario{
-    width: 30%;
+    margin: 5px;
+    width: 100%;
     background-color: white;
 }
 
