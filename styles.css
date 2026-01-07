@@ -71,17 +71,18 @@ body{
 footer{
     font-weight: 40;
     background-color: greenyellow;
-}
-
-.datos{
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
 
-.div2{
+.datos{
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+}
+
+.datos>lista1 , .datos>lista2{
+    margin: 2px 10px;
 }
 
 .datos>p{
