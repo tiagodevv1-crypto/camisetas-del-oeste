@@ -55,8 +55,12 @@ body{
 }
 
 footer{
-    display: flex;
-    justify-content: center;
     font-weight: 40;
     background-color: greenyellow;
+}
+
+.datos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
