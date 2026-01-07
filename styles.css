@@ -28,6 +28,10 @@ body{
     margin: 1px;
 }
 
+fieldset{
+    background-color: white;
+}
+
 .logodiv {
     width: 25%;
     margin: 1px;
