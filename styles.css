@@ -47,6 +47,10 @@ body{
     text-decoration: none;
 }
 
+.menu>nav>div{
+    margin: 1px 10px;
+}
+
 #imagen-de-fondo { 
     width: 100vw;
     height: auto;
