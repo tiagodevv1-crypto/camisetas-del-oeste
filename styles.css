@@ -26,7 +26,6 @@ body{
 .titulo{
     width: 25%;
     margin: 1px;
-    border: 2px groove black;
 }
 
 .logodiv {
@@ -41,7 +40,8 @@ body{
     margin: 1px;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-around;
+    text-decoration: none;
 }
 
 #imagen-de-fondo { 
