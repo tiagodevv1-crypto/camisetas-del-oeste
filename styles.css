@@ -73,9 +73,9 @@ footer{
     background-color: greenyellow;
 }
 
-footer > data{
+footer > .data{
     display: flex;
-    flex-direction: row !important;
+    flex-direction: row;
     justify-content: center;
 }
 
