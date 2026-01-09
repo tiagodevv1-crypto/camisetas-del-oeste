@@ -68,6 +68,11 @@ body{
     width: 100%;
 }
 
+main > .reseñas{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+}
+
 footer{
     font-weight: 40;
     background-color: greenyellow;
