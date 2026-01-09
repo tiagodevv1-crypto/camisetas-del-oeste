@@ -75,7 +75,7 @@ footer{
     flex-direction: column;
 }
 
-footer>data{
+footer > data{
     display: flex;
     flex-direction: row;
     justify-content: center;
