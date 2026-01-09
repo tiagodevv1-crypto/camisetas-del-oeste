@@ -77,10 +77,10 @@ main > .reseñas{
     padding: 10px;
 }
 
-main > .reseñas > .card1,.card2,.card3{
+main > .reseñas > .card{
     padding: 3px;
     border: 1px solid white;
-    transform: translateY(-5px);
+    transform: translateY(-25px);
 }
 
 footer{
