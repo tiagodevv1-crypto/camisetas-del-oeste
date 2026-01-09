@@ -36,7 +36,8 @@ body{
 
 @media (max-width: 768px){
     .formulario {
-        font-size: 5px;
+        font-size: 14px;
+        width: 600px;
         font-family: Arial, Helvetica, sans-serif;
         background-color: antiquewhite;
         display: flex;
