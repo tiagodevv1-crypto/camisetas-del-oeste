@@ -72,6 +72,11 @@ footer{
     font-weight: 40;
     background-color: greenyellow;
     display: flex;
+    flex-direction: column;
+}
+
+footer>data{
+    display: flex;
     flex-direction: row;
     justify-content: center;
 }
