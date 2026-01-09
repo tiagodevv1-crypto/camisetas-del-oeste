@@ -76,7 +76,7 @@ main > .reseñas{
     transform: translateY(-5px);
 }
 
-.reseñas > .card1,.card2,.card3{
+main > .reseñas > .card1,.card2,.card3{
     padding: 3px;
     border: 1px solid white;
 }
