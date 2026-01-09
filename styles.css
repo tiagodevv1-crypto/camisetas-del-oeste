@@ -34,6 +34,16 @@ body{
     background-color: white;
 }
 
+@media (max-width: 768px){
+    .formulario {
+        font-size: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: antiquewhite;
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
 .logodiv {
     width: 25%;
     margin: 1px;
@@ -81,6 +91,7 @@ main > .reseñas > .card:hover{
     transform: translateY(-25px);
     box-shadow: -10px -10px 10px #333;
 }
+
 main > .reseñas > .card{
     padding: 3px;
     border: 2px solid white;
