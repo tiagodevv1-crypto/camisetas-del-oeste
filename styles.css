@@ -116,6 +116,11 @@ main > .grid-container{
     gap: 5px;
 }
 
+@media (max-width: 768px){
+    .grid-container{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
 .grid-item{
     background-color: greenyellow;
 }
@@ -148,8 +153,3 @@ footer > .data{
     justify-content: center;
 }
 
-@media only screen (max-width: 768px){
-    main>.grid-container{
-        grid-template-columns: repeat(2,1fr);
-    }
-}
