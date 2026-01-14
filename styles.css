@@ -148,7 +148,7 @@ footer > .data{
     justify-content: center;
 }
 
-@media (max-width: 768 px){
+@media (max-width: 768px){
     .grid-container{
         grid-template-columns: repeat(2,1fr,);
     }
