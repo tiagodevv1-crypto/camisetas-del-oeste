@@ -116,13 +116,13 @@ main > .grid-container{
     gap: 5px;
 }
 
-@media only screen and (max-width: 768px){
-    main>.grid-container{
+@media (max-width: 768px){
+    .grid-container{
         grid-template-columns: repeat(2,1fr,auto);
     }
 }
 .grid-item{
-    background-color: greenyellow;
+    background-color: rgb(159, 255, 14);
 }
 
 section > iframe{
