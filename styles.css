@@ -107,6 +107,23 @@ main > .reseñas > .card{
     border: 2px solid white;
 }
 
+main > .grid-container{
+    padding: 2vw;
+    background-color: white !important;
+    display: grid;
+    grid-template-columns: repeat(4, auto) ;
+    grid-template-rows: (repeat 2, 1fr);
+    gap: 5px;
+}
+
+.grid-item{
+    background-color: greenyellow;
+}
+
+section > iframe{
+    display: block;
+    margin: auto;
+}
 footer{
     font-weight: 40;
     background-color: greenyellow;
@@ -129,4 +146,10 @@ footer > .data{
 
 .datos>p{
     justify-content: center;
+}
+
+@media (max-width: 768 px){
+    .grid-container{
+        grid-template-columns: repeat(2,1fr,);
+    }
 }
