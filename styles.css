@@ -112,7 +112,7 @@ main > .grid-container{
     background-color: white !important;
     display: grid;
     grid-template-columns: repeat(4, auto) ;
-    grid-template-rows: (repeat 2, 1fr);
+    grid-template-rows: repeat (2, 1fr);
     gap: 5px;
 }
 
@@ -148,7 +148,7 @@ footer > .data{
     justify-content: center;
 }
 
-@media (max-width: 768px){
+@media only screen (max-width: 768px){
     main>.grid-container{
         grid-template-columns: repeat(2,1fr);
     }
