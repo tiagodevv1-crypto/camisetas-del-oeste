@@ -118,7 +118,7 @@ main > .grid-container{
 
 @media (max-width: 768px){
     .grid-container{
-        grid-template-columns: repeat(2,1fr,auto);
+        grid-template-columns: repeat(2,auto);
     }
 }
 .grid-item{
